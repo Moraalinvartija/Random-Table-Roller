@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <h1>Random Tables for D&D</h1>
       <Tabs>
-        <div label="Example1">
+        <div label="Gem Table">
         <Table data={data1} />
         </div>
         <div label="Example2">
