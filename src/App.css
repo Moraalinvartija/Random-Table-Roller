@@ -1,0 +1,105 @@
+.App {
+  text-align: center;
+}
+
+.tab-list {
+  border-bottom: 1px solid #ccc;
+  padding-left: 0;
+}
+
+.tab-list-item {
+  display: inline-block;
+  list-style: none;
+  margin-bottom: -1px;
+  padding: 0.5rem 0.75rem;
+}
+
+.tab-list-active {
+  background-color: white;
+  border: solid #ccc;
+  border-width: 1px 1px 0 1px;
+}
+
+.center { /* Center Table*/
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  max-height: 600px;
+  overflow-y: scroll;
+  transform: translate(-50%, -50%);
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  width: 800px;
+  height: 800px;
+  border-collapse: collapse;
+  overflow: hidden;
+}
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table tr:first-child {
+  background-color: #ddd;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+tr:nth-child(odd) {
+  background-color: #e2e2e2;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.button-container button {
+  margin-right: 10px;
+}
+button {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 10px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #067d4c;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+}
