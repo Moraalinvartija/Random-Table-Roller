@@ -1,102 +1,615 @@
 [
-    {"id":301,"first_name":"Gerti","last_name":"Giscken","email":"ggiscken8c@patch.com","gender":"Female","university":"Ibaraki Christian College"},
-    {"id":302,"first_name":"Alfreda","last_name":"Gouth","email":"agouth8d@economist.com","gender":"Female","university":"Shanghai Institue of Foreign Trade"},
-    {"id":303,"first_name":"Tailor","last_name":"Rudledge","email":"trudledge8e@virginia.edu","gender":"Male","university":"Galatasaray University"},
-    {"id":304,"first_name":"Andi","last_name":"Lyfe","email":"alyfe8f@shutterfly.com","gender":"Female","university":"Instituto Superior de Ciências Educativas"},
-    {"id":305,"first_name":"Tim","last_name":"Francioli","email":"tfrancioli8g@europa.eu","gender":"Male","university":"University of Glamorgan"},
-    {"id":306,"first_name":"Bert","last_name":"Aubery","email":"baubery8h@qq.com","gender":"Female","university":"Earlham College"},
-    {"id":307,"first_name":"Rhetta","last_name":"Frankowski","email":"rfrankowski8i@nhs.uk","gender":"Female","university":"Université de Batna"},
-    {"id":308,"first_name":"Brade","last_name":"Buffin","email":"bbuffin8j@homestead.com","gender":"Male","university":"Odessa National Academy of Food Technologies"},
-    {"id":309,"first_name":"Olympia","last_name":"Croysdale","email":"ocroysdale8k@jalbum.net","gender":"Female","university":"Fachhochschule Bingen"},
-    {"id":310,"first_name":"Rolland","last_name":"Petras","email":"rpetras8l@stumbleupon.com","gender":"Male","university":"Rajendra Agricultural University"},
-    {"id":311,"first_name":"Jacklyn","last_name":"Beetham","email":"jbeetham8m@booking.com","gender":"Female","university":"Matsusaka University"},
-    {"id":312,"first_name":"Kirby","last_name":"Howel","email":"khowel8n@oracle.com","gender":"Female","university":"State University of New York at Oswego"},
-    {"id":313,"first_name":"Jemie","last_name":"Chill","email":"jchill8o@wunderground.com","gender":"Female","university":"Mountains of the Moon University"},
-    {"id":314,"first_name":"Vivien","last_name":"Longman","email":"vlongman8p@free.fr","gender":"Female","university":"King's University College"},
-    {"id":315,"first_name":"Hercule","last_name":"Haxbie","email":"hhaxbie8q@phpbb.com","gender":"Male","university":"Moorhead State University"},
-    {"id":316,"first_name":"Jessee","last_name":"Mudge","email":"jmudge8r@vimeo.com","gender":"Male","university":"Technische Fachhochschule Georg Agricola für Rohstoff, Energie und, Umwelt zu Bochum"},
-    {"id":317,"first_name":"Conn","last_name":"Diehn","email":"cdiehn8s@vkontakte.ru","gender":"Male","university":"Université de Technologie de Troyes"},
-    {"id":318,"first_name":"Mariejeanne","last_name":"Quimby","email":"mquimby8t@google.com.br","gender":"Female","university":"University of Education"},
-    {"id":319,"first_name":"Nels","last_name":"Rable","email":"nrable8u@mlb.com","gender":"Male","university":"Ibn Sina University"},
-    {"id":320,"first_name":"Emmey","last_name":"Lelliott","email":"elelliott8v@uol.com.br","gender":"Female","university":"Academy of Music \"Georghe Dima\" Cluj-Napoca"},
-    {"id":321,"first_name":"Aile","last_name":"Yong","email":"ayong8w@nbcnews.com","gender":"Female","university":"Al-Zaiem Al-Azhari University"},
-    {"id":322,"first_name":"Evered","last_name":"Zannutti","email":"ezannutti8x@va.gov","gender":"Male","university":"Université Victor Segalen (Bordeaux II)"},
-    {"id":323,"first_name":"Shalom","last_name":"Roseman","email":"sroseman8y@bloglovin.com","gender":"Male","university":"Andrzej Frycz Modrzewski Cracow College"},
-    {"id":324,"first_name":"Aldus","last_name":"Cathcart","email":"acathcart8z@illinois.edu","gender":"Male","university":"Al-Azhar University of Gaza"},
-    {"id":325,"first_name":"Karly","last_name":"Kimmitt","email":"kkimmitt90@paypal.com","gender":"Female","university":"Hubei University"},
-    {"id":326,"first_name":"Veda","last_name":"Paschek","email":"vpaschek91@acquirethisname.com","gender":"Female","university":"Posts & Telecommunications Institute of Technology"},
-    {"id":327,"first_name":"Hildegarde","last_name":"Rowler","email":"hrowler92@princeton.edu","gender":"Female","university":"Baghyatoolah Medical Sciences University"},
-    {"id":328,"first_name":"Ronni","last_name":"Fawdrie","email":"rfawdrie93@latimes.com","gender":"Female","university":"Universitas Sanata Dharma"},
-    {"id":329,"first_name":"Wallace","last_name":"Gumb","email":"wgumb94@japanpost.jp","gender":"Male","university":"Shanxi University"},
-    {"id":330,"first_name":"Taddeusz","last_name":"Bignall","email":"tbignall95@reuters.com","gender":"Male","university":"La Sierra University"},
-    {"id":331,"first_name":"L;urette","last_name":"Skim","email":"lskim96@shop-pro.jp","gender":"Female","university":"Akaki Tsereteli State University"},
-    {"id":332,"first_name":"Alonso","last_name":"Caldaro","email":"acaldaro97@utexas.edu","gender":"Genderfluid","university":"Universidad Isaac Newton"},
-    {"id":333,"first_name":"Jaime","last_name":"Cumesky","email":"jcumesky98@vistaprint.com","gender":"Male","university":"Andrassy Gyula German Speaking University Budapest"},
-    {"id":334,"first_name":"Kory","last_name":"Hauger","email":"khauger99@technorati.com","gender":"Male","university":"Universität Siegen"},
-    {"id":335,"first_name":"Xenos","last_name":"Marsden","email":"xmarsden9a@over-blog.com","gender":"Male","university":"Fachhochschule Pur"},
-    {"id":336,"first_name":"Sherye","last_name":"Heersema","email":"sheersema9b@bravesites.com","gender":"Female","university":"Oklahoma State University - Oklahoma City"},
-    {"id":337,"first_name":"Emalia","last_name":"Pollastrone","email":"epollastrone9c@mediafire.com","gender":"Female","university":"University of Western Australia"},
-    {"id":338,"first_name":"Latrina","last_name":"Chaplin","email":"lchaplin9d@altervista.org","gender":"Female","university":"University of Texas"},
-    {"id":339,"first_name":"Barton","last_name":"Whyler","email":"bwhyler9e@weather.com","gender":"Male","university":"National Medical University O.O. Bogomolets"},
-    {"id":340,"first_name":"Farlie","last_name":"Serjeantson","email":"fserjeantson9f@cbslocal.com","gender":"Male","university":"South Florida Bible College & Theological Seminary"},
-    {"id":341,"first_name":"Addison","last_name":"Woolrich","email":"awoolrich9g@github.com","gender":"Male","university":"Ludong University"},
-    {"id":342,"first_name":"Barr","last_name":"Friar","email":"bfriar9h@nhs.uk","gender":"Male","university":"Universidade Castelo Branco"},
-    {"id":343,"first_name":"Alexio","last_name":"McGooch","email":"amcgooch9i@berkeley.edu","gender":"Male","university":"Ibaraki Prefectural University of Health Sciences"},
-    {"id":344,"first_name":"Judd","last_name":"Tigwell","email":"jtigwell9j@feedburner.com","gender":"Male","university":"Selcuk University"},
-    {"id":345,"first_name":"Rolland","last_name":"Backman","email":"rbackman9k@cafepress.com","gender":"Male","university":"American University in the Emirates"},
-    {"id":346,"first_name":"Norman","last_name":"Lycett","email":"nlycett9l@businesswire.com","gender":"Male","university":"Technical University of Crete"},
-    {"id":347,"first_name":"Corrinne","last_name":"Buxcy","email":"cbuxcy9m@constantcontact.com","gender":"Female","university":"African University of Science and Technology"},
-    {"id":348,"first_name":"Ora","last_name":"Tibalt","email":"otibalt9n@barnesandnoble.com","gender":"Female","university":"Ecole Supérieure de Commerce de Clermont-Ferrand"},
-    {"id":349,"first_name":"Mischa","last_name":"De Biaggi","email":"mdebiaggi9o@google.ca","gender":"Male","university":"Paier College of Art"},
-    {"id":350,"first_name":"Cecile","last_name":"Mindenhall","email":"cmindenhall9p@fema.gov","gender":"Female","university":"Université de la Méditerranée (Aix Marseille II)"},
-    {"id":351,"first_name":"Bessy","last_name":"Flack","email":"bflack9q@google.nl","gender":"Female","university":"Universidade Camilo Castelo Branco"},
-    {"id":352,"first_name":"Perry","last_name":"Greguoli","email":"pgreguoli9r@simplemachines.org","gender":"Female","university":"National Pedagogical University M. Dragomanov "},
-    {"id":353,"first_name":"Norman","last_name":"Linham","email":"nlinham9s@apple.com","gender":"Male","university":"Fiji National University "},
-    {"id":354,"first_name":"Wilfrid","last_name":"Dummett","email":"wdummett9t@zdnet.com","gender":"Male","university":"Lewis-Clark State College"},
-    {"id":355,"first_name":"Wyatan","last_name":"Brumbie","email":"wbrumbie9u@blogs.com","gender":"Male","university":"University of Wisconsin - Madison"},
-    {"id":356,"first_name":"Lilly","last_name":"Tofanini","email":"ltofanini9v@nyu.edu","gender":"Female","university":"Huazhong Agricultural University"},
-    {"id":357,"first_name":"Nadeen","last_name":"Gainforth","email":"ngainforth9w@icq.com","gender":"Female","university":"Conestoga College"},
-    {"id":358,"first_name":"Gordie","last_name":"Hazzard","email":"ghazzard9x@sakura.ne.jp","gender":"Male","university":"Shreemati Nathibai Damodar Thackersey Women's University"},
-    {"id":359,"first_name":"Bryna","last_name":"Motton","email":"bmotton9y@taobao.com","gender":"Female","university":"Presbyterian University College"},
-    {"id":360,"first_name":"Sammy","last_name":"Jimson","email":"sjimson9z@state.tx.us","gender":"Female","university":"Yasar University"},
-    {"id":361,"first_name":"Flossi","last_name":"Geri","email":"fgeria0@homestead.com","gender":"Female","university":"Tai Solarin University of Education"},
-    {"id":362,"first_name":"Katie","last_name":"Brendeke","email":"kbrendekea1@virginia.edu","gender":"Female","university":"Schiller International University"},
-    {"id":363,"first_name":"Annabel","last_name":"Quarterman","email":"aquartermana2@sohu.com","gender":"Female","university":"Kyoto Seika University"},
-    {"id":364,"first_name":"Anica","last_name":"Fraine","email":"afrainea3@apple.com","gender":"Female","university":"Universitas Klabat"},
-    {"id":365,"first_name":"Patrice","last_name":"Dykas","email":"pdykasa4@amazonaws.com","gender":"Female","university":"Bard College"},
-    {"id":366,"first_name":"Beth","last_name":"Sunley","email":"bsunleya5@usnews.com","gender":"Female","university":"Lincoln University"},
-    {"id":367,"first_name":"Berrie","last_name":"Iredell","email":"biredella6@noaa.gov","gender":"Bigender","university":"Kunsthochschule Berlin-Weissensee, Hochschule für Gestaltung "},
-    {"id":368,"first_name":"Luciana","last_name":"Gemson","email":"lgemsona7@wikispaces.com","gender":"Agender","university":"Daemen College"},
-    {"id":369,"first_name":"Shelbi","last_name":"Braffington","email":"sbraffingtona8@intel.com","gender":"Female","university":"Payame Noor University"},
-    {"id":370,"first_name":"Nicki","last_name":"Vinall","email":"nvinalla9@indiegogo.com","gender":"Female","university":"Al-Bukhari International University"},
-    {"id":371,"first_name":"Kleon","last_name":"Handley","email":"khandleyaa@webeden.co.uk","gender":"Male","university":"Universidad de San Andres"},
-    {"id":372,"first_name":"Valli","last_name":"de Marco","email":"vdemarcoab@yellowpages.com","gender":"Female","university":"Estonian University of Life Sciences"},
-    {"id":373,"first_name":"Shep","last_name":"Jeanes","email":"sjeanesac@delicious.com","gender":"Male","university":"Narendra Deva University of Agriculture and Technology"},
-    {"id":374,"first_name":"Frankie","last_name":"Abrams","email":"fabramsad@liveinternet.ru","gender":"Male","university":"Government College University Lahore"},
-    {"id":375,"first_name":"Gan","last_name":"Celes","email":"gcelesae@home.pl","gender":"Male","university":"Gansu University of Technology"},
-    {"id":376,"first_name":"Cathrin","last_name":"Leeke","email":"cleekeaf@godaddy.com","gender":"Female","university":"Universidade Nova de Lisboa"},
-    {"id":377,"first_name":"Aldis","last_name":"Mapplethorpe","email":"amapplethorpeag@furl.net","gender":"Male","university":"Graduate School of Business Administration Zurich (GSBA Zurich)"},
-    {"id":378,"first_name":"Porter","last_name":"Sein","email":"pseinah@shop-pro.jp","gender":"Male","university":"Shandong University of Triaditional Chinese Medicine"},
-    {"id":379,"first_name":"Pip","last_name":"Jubb","email":"pjubbai@360.cn","gender":"Male","university":"Ho Chi Minh City University of Technology"},
-    {"id":380,"first_name":"Jemmie","last_name":"Tommasi","email":"jtommasiaj@google.cn","gender":"Female","university":"Mindanao State University - Iligan Institute of Technology"},
-    {"id":381,"first_name":"Conny","last_name":"Islep","email":"cislepak@amazon.co.uk","gender":"Female","university":"Bethany College Kansas"},
-    {"id":382,"first_name":"Athena","last_name":"Longstreeth","email":"alongstreethal@g.co","gender":"Female","university":"Universidad Nacional de Cuyo"},
-    {"id":383,"first_name":"Pauly","last_name":"Gritten","email":"pgrittenam@tamu.edu","gender":"Male","university":"Calumet College of St. Joseph"},
-    {"id":384,"first_name":"Marty","last_name":"Sarjent","email":"msarjentan@edublogs.org","gender":"Female","university":"University of Zadar"},
-    {"id":385,"first_name":"Flint","last_name":"Compston","email":"fcompstonao@ucla.edu","gender":"Male","university":"Antioch New England Graduate School"},
-    {"id":386,"first_name":"Gennie","last_name":"Hawke","email":"ghawkeap@simplemachines.org","gender":"Female","university":"Abia State University"},
-    {"id":387,"first_name":"Jackson","last_name":"Duckels","email":"jduckelsaq@baidu.com","gender":"Male","university":"Universidad de Cartago Florencio del Castillo"},
-    {"id":388,"first_name":"Janot","last_name":"Doogood","email":"jdoogoodar@virginia.edu","gender":"Female","university":"Pacifica Graduate Institute"},
-    {"id":389,"first_name":"Derek","last_name":"Broadnicke","email":"dbroadnickeas@woothemes.com","gender":"Male","university":"Universidad de Lambayeque"},
-    {"id":390,"first_name":"Bevin","last_name":"Tander","email":"btanderat@senate.gov","gender":"Male","university":"Institute of Business Administration (IBA)"},
-    {"id":391,"first_name":"Nariko","last_name":"Churcher","email":"nchurcherau@topsy.com","gender":"Polygender","university":"Surugadai University"},
-    {"id":392,"first_name":"Freddie","last_name":"Pandey","email":"fpandeyav@skyrock.com","gender":"Male","university":"Yanbu Technical Institute"},
-    {"id":393,"first_name":"Reinwald","last_name":"Nyssens","email":"rnyssensaw@mlb.com","gender":"Genderqueer","university":"Eastern Oregon University"},
-    {"id":394,"first_name":"Lisetta","last_name":"Kendall","email":"lkendallax@gmpg.org","gender":"Female","university":"Sakarya University"},
-    {"id":395,"first_name":"Thelma","last_name":"Gallety","email":"tgalletyay@examiner.com","gender":"Female","university":"Osmania University"},
-    {"id":396,"first_name":"Enid","last_name":"Danilovic","email":"edanilovicaz@sun.com","gender":"Female","university":"Huizhou University"},
-    {"id":397,"first_name":"Stormy","last_name":"Ginger","email":"sgingerb0@devhub.com","gender":"Female","university":"College of the Holy Cross"},
-    {"id":398,"first_name":"Padraig","last_name":"Hollyer","email":"phollyerb1@sogou.com","gender":"Male","university":"Kyungpook National University"},
-    {"id":399,"first_name":"Tally","last_name":"Wyatt","email":"twyattb2@eepurl.com","gender":"Male","university":"Gannon University"},
-    {"id":400,"first_name":"Kingston","last_name":"Titterington","email":"ktitteringtonb3@nationalgeographic.com","gender":"Polygender","university":"Nizam's Institute of Medical Sciences"}
+  {
+    "id": "1",
+
+    "description": "A beautiful elven vase that is slightly cracked. The painting around the outside of the vase depicts an elven god planting the world’s very first tree. "
+  },
+  {
+    "id": "2",
+
+    "description": "Artwork of a battle showing the local lords fighting off an attack, painted by a long dead artist. The painting is set in a lovely gold leaf frame."
+  },
+  {
+    "id": "3",
+
+    "description": "A child’s painting framed beautifully. The art itself is fairly lacking but the frame is worth a decent amount, even more to someone who appreciates the juxtaposition of incredibly classy and messy."
+  },
+  {
+    "id": "4",
+
+    "description": "A jade tea set for two, stored on a lovely wooden tray."
+  },
+  {
+    "id": "5",
+
+    "description": "A large stone that (magically/naturally) glows. It is crafted into a statuette of a celestial being. The stone itself is worth little but the craftsmanship is very fine."
+  },
+  {
+    "id": "6",
+
+    "description": "A baby’s blanket made of the finest cloth. It is kept in a mothballed container for years. It smells faintly of mint, as if someone meant to store it for a very long time."
+  },
+  {
+    "id": "7",
+
+    "description": "A model of the solar system you reside in. It is made entirely out of brass with some of the labels faded over time. It could possibly be sold to a place of knowledge for a slightly higher price."
+  },
+  {
+    "id": "8",
+
+    "description": "A finely made flask and flask sheath. The flask is slightly dirty on the inside but with some running water and time, it will reveal a noble’s crest on the side immediately, skyrocketing the value."
+  },
+  {
+    "id": "9",
+    "description": "A deed to a very small portion of land that now resides in the very middle of a noble’s house. The city will buy it off of you for a good price."
+  },
+  {
+    "id": "10",
+
+    "description": "A golden likeness of the hand of a legendary female warlord, sitting atop a small pedestal bearing her name (Alanna the Fearless). The hand is able to hold a sword that is made to her specific specifications, all others simply fall out."
+  },
+  {
+    "id": "11",
+
+    "description": "A jade carving of a dog etched with its eulogy."
+  },
+  {
+    "id": "12",
+
+    "description": "Two delicate links of silver chain around a demon statuette of rare wood. Of particular interest to that demon’s cult."
+  },
+  {
+    "id": "13",
+
+    "description": "Seven beautifully etched bells in descending sizes, each made of silver and each with its own tone. Ringing one makes you slightly sleepy, others fill you with talkative urge or a powerful sense of unease."
+  },
+  {
+    "id": "14",
+
+    "description": "A handful of jasper puzzle pieces speckled with flecks of semiprecious stone (citrine, amethyst, garnet, etc.) that assemble themselves into the 2-D likeness of the last animal you pointed at."
+  },
+  {
+    "id": "15",
+
+    "description": "A painting of middling skill drawn by a local lord who has recently passed. “He was a bastard when he was alive. but an endearing one now he’s dead!”"
+  },
+  {
+    "id": "16",
+
+    "description": "A painting of exquisite skill drawn by a discredited master. “Hm… probably a fake. I’ll give you 100 gold, consider yourself lucky.”"
+  },
+  {
+    "id": "17",
+
+    "description": "A palm-sized bronze automaton of a goose that lays a copper egg. Its eyes are rubies. Feed it copper coins and it produces more copper eggs."
+  },
+  {
+    "id": "18",
+
+    "description": "A small sapphire hairpin carved into the shape of an ocean wave."
+  },
+  {
+    "id": "19",
+
+    "description": "A volume of poetry by the late great bard _______."
+  },
+  {
+    "id": "20",
+
+    "description": "A volume of painstakingly illuminated holy scripture – bookmarked to some of the racier passages."
+  },
+  {
+    "id": "21",
+
+    "description": "A beautifully crafted but unbalanced and obviously impractical weapon. Is it a long-handled sword? A short-handled spear with a long blade? A throwing javelin with a 10-foot range?"
+  },
+  {
+    "id": "22",
+
+    "description": "A silver and brass mirror with lewd designs hidden around the frame."
+  },
+  {
+    "id": "23",
+
+    "description": "The gaudy holy symbol of a cult to the defunct goddess of wealth."
+  },
+  {
+    "id": "24",
+
+    "description": "A small notebook with the random musings of ‘The Author.’ Many of them pertain about the nature of the world, time, space and the future. Oddly no one has noticed that all the predictions in said notebook have come true."
+  },
+  {
+    "id": "25",
+
+    "description": "A crudely made painting of a king smiling. The painting itself is nothing special. What is however special is the painter but being one of his worse works it gets a rather low price."
+  },
+  {
+    "id": "26",
+
+    "description": "The (nonmagical) axe of Gunthar the Brave, a hero that is very well known and celebrated in his hometown, but not very well known elsewhere."
+  },
+  {
+    "id": "27",
+
+    "description": "A fancy belt buckle (broken beyond repair) from a legendary wizard hero, engraved with his initials."
+  },
+  {
+    "id": "28",
+
+    "description": "A set of candlesticks that on casual glance look extremely expensive which, upon very close examination, turn out to be made of brass instead of gold and with glass instead of gemstones."
+  },
+  {
+    "id": "29",
+
+    "description": "An exquisite scrimshaw design of dueling dragons made from a harpy claw."
+  },
+  {
+    "id": "30",
+
+    "description": "A chunk of metal that, when inspected, is just 100 gp melted and welded together."
+  },
+  {
+    "id": "31",
+
+    "description": "A clay pot full of a rare and valuable spice."
+  },
+  {
+    "id": "32",
+
+    "description": "A ridiculously unusable gold-plated fantasy sword."
+  },
+  {
+    "id": "33",
+
+    "description": "A canvas swatch full of lines and streaks of colors, all of which methods of color reproduction are lost to time."
+  },
+  {
+    "id": "34",
+
+    "description": "A round table with engraved magic circle and runes that casts a random Prestidigitation effect every day on a fixed lantern in the middle of the table."
+  },
+  {
+    "id": "35",
+
+    "description": "A blue-blade sword within a black leather sheath trimmed with silver leaves. It can be pulled out, but not drawn all the way out."
+  },
+  {
+    "id": "36",
+
+    "description": "A 2-foot golden statue of the deity Waukeen. Waukeen is seated on a chair made of coins."
+  },
+  {
+    "id": "37",
+
+    "description": "The beautifully carved silver lance tip of Sir Thais. It had tipped his ceremonial lance, which was all he had when the [insert current npc group the PCs just fought] brazenly ambushed the king’s parade a few months ago. The tip broke off after being plunged into the shoulder of [a bad guy] and was recovered by [bad guy minions]. Sadly, being ceremonial, the designs are intricate but not really effective for a lance tip, nearly blunt."
+  },
+  {
+    "id": "38",
+
+    "description": "A silver ring with a small piece of jet set in it."
+  },
+  {
+    "id": "39",
+
+    "description": "Boots that magically stay warm and dry, no matter what they’ve been through."
+  },
+  {
+    "id": "40",
+
+    "description": "A filigree gold goblet once owned by a prince."
+  },
+  {
+    "id": "41",
+
+    "description": "An amphora of ancient Fey wine (still good, and very tasty)."
+  },
+  {
+    "id": "42",
+
+    "description": "A crown of wyvern fangs set in silver."
+  },
+  {
+    "id": "43",
+
+    "description": "A white cape with red embroidery. As you spill blood on the cape, the embroidery grows."
+  },
+  {
+    "id": "44",
+
+    "description": "A silver lined demon skull drinking cup."
+  },
+  {
+    "id": "45",
+
+    "description": "A gold brooch inlaid with jet and garnet."
+  },
+  {
+    "id": "46",
+
+    "description": "Huge ornately carved mahogany doors. Very heavy."
+  },
+  {
+    "id": "47",
+
+    "description": "A gilded and illuminated manuscript."
+  },
+  {
+    "id": "48",
+
+    "description": "A small box inlaid with mother of pearl."
+  },
+  {
+    "id": "49",
+
+    "description": "A matching pair of platinum rings. Each with a large pearl inset. They are worth 50gp each; or 100 gp for the set."
+  },
+  {
+    "id": "50",
+
+    "description": "The keystone of the entrance arch from a legendary temple destroyed in an ancient war. (50lb) – priceless to the right collector."
+  },
+  {
+    "id": "51",
+
+    "description": "A 12x12ft, intricately patterned, thick, silk carpet. (200lb)"
+  },
+  {
+    "id": "52",
+
+    "description": "An elven viol decorated with silver vines."
+  },
+  {
+    "id": "53",
+
+    "description": "A black onyx scepter with a head of a crow carved in the handle."
+  },
+  {
+    "id": "54",
+
+    "description": "A tapestry depicting the rise and fall of a recently conquered nearby city-state."
+  },
+  {
+    "id": "55",
+
+    "description": "A ceramic jug with glyphs of people teaching the spell ‘create food and water’. Can be used by wizards to copy into spell book."
+  },
+  {
+    "id": "56",
+
+    "description": "A see-through glass sword. The blade is made out of a clear blue glass while the handle is tinted blue."
+  },
+  {
+    "id": "57",
+
+    "description": "Ghostly and spectral remains that have been encased in a Crystal Ball. The ball glows faintly and has a swirling mist effect inside."
+  },
+  {
+    "id": "58",
+
+    "description": "A sheathe for a short sword long since forgotten. It is made with purple velvet wrapped owlbear leather, capped at the end by electrum. The inside has been smoothed considerably and lined with gelatinous cube remains. The effect of this is realized when drawing the sword, the sheathe generates zero sound whatsoever. There is a carved wooden replica of the sword inside the sheathe, and all are contained within a see-through glass case wherein the sheathe lays horizontally."
+  },
+  {
+    "id": "59",
+
+    "description": "A headframe for a bed made with black ash logs. There are carved pictures of ravens decorating the headboard, and gold has been pressed into the carvings."
+  },
+  {
+    "id": "60",
+
+    "description": "A small gem encrusted crown, too small for most races, the crown is unique in that it has horsehair attached, allowing the crown to be worn as a wig."
+  },
+  {
+    "id": "61",
+
+    "description": "Iron ball and chain, there are carefully chiseled etchings in the chain and around the ball in dwarvish. If read, the etchings reveal a song about a criminal held in confinement for killing a noble, but her jailhouse was besieged by bandits for a year. After the first verse, the faint chiseled etchings become deeper and clearer, telling of the dwarf’s temporary release and subsequent victory in combat of the besiegers alongside her jailers. The third and final verse is carved faintly and carefully again, detailing the dwarf continuing her life sentence until her death."
+  },
+  {
+    "id": "62",
+
+    "description": "An ivory tusk the length of an arm but carved with scenes from a battle long ago."
+  },
+  {
+    "id": "63",
+
+    "description": "A polished brass and copper clockwork toy of a small cottage, a farmer and their animals that moves when wound.  The farmer chases a toy chicken with an axe."
+  },
+  {
+    "id": "64",
+
+    "description": "A scrimshaw pipe. When puffed on small skeletal animal smoke shapes rise out."
+  },
+  {
+    "id": "65",
+
+    "description": "A white porcelain chamber pot, the much-maligned last work of a great artist who went mad. The pot has the signature of the artist scrawled on it in a shaky hand."
+  },
+  {
+    "id": "66",
+
+    "description": "A painting that was started but not finished that depicts a beautiful landscape. It was started by a famous painter but unfortunately, he died halfway through finishing it. Parts of it are still sketched while others are fully painted."
+  },
+  {
+    "id": "67",
+
+    "description": "A tiny sundial made from a single piece of platinum."
+  },
+  {
+    "id": "68",
+
+    "description": "This ornate oak chair is both artsy AND functional. Sculpted by talented elven Craftsman as a wealthy dining set but have been split up due to war. Each chair depicts a different scene in a major war that happened thousands of years ago."
+  },
+  {
+    "id": "69",
+
+    "description": "A small, ornate hand-mirror, with decorative trim and a quote running along the edges that reads ‘Beauty is Diligence in Physical Form’."
+  },
+  {
+    "id": "70",
+
+    "description": "a painting with a mage shouting spells, it is clearly readable out of his mouth, but the letters become denser and denser until it’s only black paint."
+  },
+  {
+    "id": "71",
+
+    "description": "A portrait that makes a 3d bust illusion of a designated person. Requires a simple ritual to ‘take the picture’."
+  },
+  {
+    "id": "72",
+
+    "description": "A mirror that makes you look more attractive via illusion magic."
+  },
+  {
+    "id": "73",
+
+    "description": "A vase made from beautiful stone, carved with celestial figures around it, some marble inlays"
+  },
+  {
+    "id": "74",
+
+    "description": "A silver circlet with a glowing stone in it, it can be used to cast light once per day"
+  },
+  {
+    "id": "75",
+
+    "description": "An abstract art piece, not of any notable artist, but painted with specks of stones with permanent and colorful illumination."
+  },
+  {
+    "id": "76",
+
+    "description": "An ornate mantle clock that rings the hour with twelve separate melodies."
+  },
+  {
+    "id": "77",
+
+    "description": "A boldly colored quartz the size of a pigeon’s egg, etched and painted in such a way that when it is placed to one’s eye in the light, they see a clever but naughty image of a beautiful person in the nude."
+  },
+  {
+    "id": "78",
+
+    "description": "A wood bound codex filled illuminated with several hundred pages of highly colorful and anatomically difficult descriptions of sexual positions.  The codex is sealed with a small brass chain.  The text of the manuscript is in a language that is not common."
+  },
+  {
+    "id": "79",
+
+    "description": "A disk of clay with extremely fine etchings of semi-concentric lines that seem to spiral outwards from the center in tight, semi random wiggly spirals.  It has been broken into three shards."
+  },
+  {
+    "id": "80",
+
+    "description": "A hat-stand made with ornate knobs of polished brass on the ends of the hooks.  The knobs are animal heads in fine detail."
+  },
+  {
+    "id": "81",
+
+    "description": "A desktop ornament made of pink clear glass in the shape of a pig with a bright red glass apple in its mouth.  When the pig is rubbed, it makes a magical oink noise."
+  },
+  {
+    "id": "82",
+
+    "description": "An ornate, decorative inkpot and penknife made of rare animal horn."
+  },
+  {
+    "id": "83",
+
+    "description": "A wire basket handled rapier of ornate design, with a fake ruby made of glass mounted in the pommel.  The rapier is mounted to be a trophy on a wall.  A small plaque reads, ‘Wrath’."
+  },
+  {
+    "id": "84",
+    "description": "A large globe showing the known world and a nested set of platonic solids, all made of brass.  The entire contraption is over a meter across."
+  },
+  {
+    "id": "85",
+
+    "description": "A palm sized gelatinous cube containing a finely crafted model ship. The cube has been permanently suspended in animation with magic and is non-threatening."
+  },
+  {
+    "id": "86",
+
+    "description": "A painting of a flail snail enhanced by magic to project faint rainbow light from the shell of the flail snail."
+  },
+  {
+    "id": "87",
+
+    "description": "a handcrafted dreamcatcher adorned with werewolf teeth"
+  },
+  {
+    "id": "88",
+
+    "description": "The mask of a cloud giant. The mask is pearl white and has light pink stripes."
+  },
+  {
+    "id": "89",
+
+    "description": "A sentient, immobile, carved basalt statue of a jellyfish, summoned to godhood by a cult of Koa-Toa"
+  },
+  {
+    "id": "90",
+
+    "description": "Silver Body chains, worn by a high priestess Yuan-Ti."
+  },
+  {
+    "id": "91",
+
+    "description": "A mind flayers brain kept inside of a glass container."
+  },
+  {
+    "id": "92",
+
+    "description": "A perfectly preserved molt of a Yuan-Ti Abomination. The molt is displayed on a large wooden platform."
+  },
+  {
+    "id": "93",
+
+    "description": "A necklace with a large pearl eye, around the eye are ten smaller pearl eyes branching off of the central eye. The necklace is gold and fashioned to depict a beholder."
+  },
+  {
+    "id": "94",
+
+    "description": "A small wood totem carved to resemble a werewolf, stolen from a cult of Malar."
+  },
+  {
+    "id": "95",
+
+    "description": "A clock in the image of an owlbear’s face. It is of masterwork gnomish quality. Every hour the owlbear opens its mouth and a -hoot hoot- sound emanates from the clock. At nighttime the eyes of the owlbear glow blood red."
+  },
+  {
+    "id": "96",
+
+    "description": "A gnomish tinkered hummingbird that fly’s in place for eternity."
+  },
+  {
+    "id": "97",
+
+    "description": "A palm sized jade turtle. While visibly impressive, most appraisers know it is of sub-par craftsmanship."
+  },
+  {
+    "id": "98",
+
+    "description": "A glass display with the first 100 gold coins minted by a nearby dwarven civilization."
+  },
+  {
+    "id": "99",
+
+    "description": "A display of a stone giants stone club. far too heavy to wield by medium sized creatures."
+  },
+  {
+    "id": "100",
+
+    "description": "A grey ooze that has been polymorphed into a throw rug. The ooze is unable to move across the floor on its own, however is constantly moving ‘within’ itself, giving the appearance of a swirling void."
+  },
+  {
+    "id": "101",
+
+    "description": "A palm sized carved stone replica of the Tomb of Horrors."
+  },
+  {
+    "id": "102",
+
+    "description": "A single Coatl feather, on a palm leaf."
+  },
+  {
+    "id": "103",
+
+    "description": "A candle made of red wax, in the image of a fire salamander"
+  },
+  {
+    "id": "104",
+
+    "description": "A candle holder fashioned to resemble a fire mephit holding the candle. The candle holder is made of silver."
+  },
+  {
+    "id": "105",
+
+    "description": "The crown of a lizard king. The crown is made of gold and has images of lizardfolk fighting various fey creatures for control of a swamp."
+  },
+  {
+    "id": "106",
+
+    "description": "A perfectly preserved bone skull of a Sahuagin, on a corral wall mount"
+  },
+  {
+    "id": "107",
+
+    "description": "The wrappings of a mummy inside a locked trunk."
+  },
+  {
+    "id": "108",
+
+    "description": "A small living carnivorous plant, inside of a notably larger iron cage."
+  },
+  {
+    "id": "109",
+
+    "description": "A carved golden sun, meant to mounted on a wall"
+  },
+  {
+    "id": "110",
+
+    "description": "A stone tiled gameboard. the gameboard has stone figurines of adventurers fighting goblins in a dungeon."
+  },
+  {
+    "id": "111",
+
+    "description": "A painting of a ship sailing away from Waterdeep bay."
+  },
+  {
+    "id": "112",
+
+    "description": "A carved tusk of an unknown monster, depicting druids in the middle of a ritual"
+  },
+  {
+    "id": "113",
+
+    "description": "An ornate, smooth orb of hardened tree sap (mixed with lavender dye.) It has the appearance of a round translucent ball (the size of a tennis ball in real life) with a dark purple hue and is often mistaken for an old family heirloom. Perhaps an Eboron spell wright believes it is her great grandmother’s spell casting focus, passed down for generations, or is a rather loud-mouthed, malicious constable found in his office every morning adoring his magnificent paper weight with an unusual amount of quiet glee?"
+  },
+  {
+    "id": "114",
+
+    "description": "A singular wooden box, with 1-year worth of every spice in the world."
+  },
+  {
+    "id": "115",
+
+    "description": "A non-magical stone ‘official’ seal carved of three birds in flight with a blank spot where the buyer’s official crest can be added."
+  },
+  {
+    "id": "116",
+
+    "description": "Six ornately decorated candles with religious symbolism, and tapers (for lighting), in a small, smoked boxwood case of fine craftsmanship, with space for a seventh candle."
+  },
+  {
+    "id": "117",
+
+    "description": "A finely tanned, soft leather pouch filled with thirty-six small, polished hematite tiles about 2 cm across, inscribed with non-magical glyphs on both sides.  Some of the tiles have different glyphs on opposing sides.  The pouch has a leather drawstring."
+  },
+  {
+    "id": "118",
+
+    "description": "A birch and mahogany game-board approximately 30 centimeters across.  The squares of the board are arrayed in a 9×9 pattern.  A small set of two matching birch tables only 10 centimeters high accompany the board."
+  },
+  {
+    "id": "119",
+
+    "description": "A brass and glass hand-mirror with an intricate wirework for the handle.  The wirework is of a bird in a cage."
+  },
+  {
+    "id": "120",
+
+    "description": "A polished brass telescoping spyglass, compass, octant, and slide rule set with precisely engraved markings and extreme precision.  It comes in a velvet lined wooden case that has been treated with beeswax."
+  },
+  {
+    "id": "121",
+
+    "description": "A small chest for storing jewels in but made completely without nails.  The outside of the chest has been lacquered red and inlaid with some very fine parquetry of a fruiting tree."
+  },
+  {
+    "id": "122",
+
+    "description": "A gilded oil lamp with ornate scrollwork cutouts of a warrior, and an evil sorcerer, meant to cast shadows on the wall in their shape."
+  },
+  {
+    "id": "123",
+
+    "description": "A fine glass lensed magnifying glass tied by a red silk ribbon to a codex filled with hundreds of pages of detailed illumination regarding the natural world."
+  }
 ]

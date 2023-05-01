@@ -4,14 +4,14 @@ const Table = ({ data }) => {
   const [selectedRowIndex, setSelectedRowIndex] = useState(null);  
   const columns = data.length > 0 ? Object.keys(data[0]) : [];
 
-  const handleRandomClick = () => {
-    const randomIndex = Math.floor(Math.random() * data.length);
-    setSelectedRowIndex(randomIndex);
+  const handleRandomClick = () => {  //Function to use when select random row is clicked
+    const randomIndex = Math.floor(Math.random() * data.length); // Generate a random index between 0 and the length of the data array
+    setSelectedRowIndex(randomIndex);  // Update the state variable "selectedRowIndex" with the new random index
   };
 
   const handleRowSplice = () => {
-    const index = parseInt(document.getElementById('rowIndex').value) - 1;
-    if (!isNaN(index) && index >= 0 && index < data.length) {
+    const index = parseInt(document.getElementById('rowIndex').value) - 1; // Get the index of the row to splice from the input element.
+    if (!isNaN(index) && index >= 0 && index < data.length) {  // If the index is valid, update the selected row index.
       setSelectedRowIndex(index);
     }
   }

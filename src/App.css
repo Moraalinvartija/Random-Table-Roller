@@ -1,10 +1,13 @@
 .App {
   text-align: center;
+  
 }
 
 .tab-list {
   border-bottom: 1px solid #ccc;
   padding-left: 0;
+  
+  
 }
 
 .tab-list-item {
@@ -12,12 +15,14 @@
   list-style: none;
   margin-bottom: -1px;
   padding: 0.5rem 0.75rem;
+  
 }
 
 .tab-list-active {
   background-color: white;
   border: solid #ccc;
   border-width: 1px 1px 0 1px;
+  
 }
 
 .center { /* Center Table*/
@@ -27,16 +32,14 @@
 
 .container {
   position: absolute;
-  top: 50%;
+  top: 55%;
   left: 50%;
   max-height: 600px;
   overflow-y: scroll;
   transform: translate(-50%, -50%);
-}
-
-.center {
-  margin-left: auto;
-  margin-right: auto;
+  box-shadow: 10px 10px 20px 1px #888888;
+  
+  
 }
 
 table {
@@ -44,15 +47,16 @@ table {
   height: 800px;
   border-collapse: collapse;
   overflow: hidden;
+  
+  
 }
 
 td, th {
-  border: 1px solid #ddd;
   padding: 8px;
+  
 }
 
 table tr:first-child {
-  background-color: #ddd;
   font-weight: bold;
   padding-bottom: 20px;
 }
@@ -62,7 +66,9 @@ tr:nth-child(odd) {
 }
 
 tr:hover {
-  background-color: #ddd;
+  background-color: #04aa6d9c;
+  box-shadow: 10px 10px 10px 8px #888888;
+
 }
 
 th {
@@ -71,6 +77,8 @@ th {
   text-align: left;
   background-color: #04AA6D;
   color: white;
+  text-align: center;
+  
 }
 
 .button-container {
@@ -78,6 +86,8 @@ th {
   justify-content: center;
   align-items: center;
   margin-bottom: 10px;
+  
+  
 }
 
 .button-container button {
@@ -97,9 +107,22 @@ button {
   border-radius: 5px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease-in-out;
+  
 }
 
 button:hover {
   background-color: #067d4c;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+}
+#rowIndex {
+  color: rgb(0, 0, 0);
+  padding: 10px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  
 }

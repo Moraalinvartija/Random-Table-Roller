@@ -11,18 +11,18 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Random Tables for D&D</h1>
+      <h1>Random Tables for RPGs</h1>
       <Tabs>
         <div label="Gem Table">
         <Table data={data1} />
         </div>
-        <div label="Example2">
+        <div label="Book Titles">
         <Table data={data2} />
         </div>
-        <div label="Example3">
+        <div label="Aquatic Items">
         <Table data={data3} />
         </div>
-        <div label="Example4">
+        <div label="Art objects/100gp">
         <Table data={data4} />
         </div>
       </Tabs>
